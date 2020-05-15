@@ -1,0 +1,6 @@
+module Pods_testmagic {
+  umbrella header "Pods-testmagic-umbrella.h"
+
+  export *
+  module * { export * }
+}
